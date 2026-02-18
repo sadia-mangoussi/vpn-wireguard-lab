@@ -4,19 +4,16 @@ Dans ce projet, je mets en place un VPN sécurisé avec WireGuard dans un enviro
 
 ## Objectif
 
-Comprendre le fonctionnement d’un VPN et sécuriser la communication entre deux machines.
+Comprendre le fonctionnement d’un VPN et sécuriser la communication entre deux machines via un tunnel chiffré.
+
+---
 
 ## Architecture
 
 - 1 serveur WireGuard (Ubuntu)
 - 1 client
 - Communication chiffrée via UDP
-
-## Environnement
-
-- Machines virtuelles (VirtualBox)
-- Ubuntu Server
-- Réseau interne isolé
+- Réseau interne isolé (VirtualBox)
 
 ---
 
